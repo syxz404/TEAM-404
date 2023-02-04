@@ -1,3 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                          
+                          
+                          
+                          
+                          
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                          
 import os
 import time
 import socket
@@ -10,7 +88,8 @@ azul= '\03'
 def script():
     os.system("clear")
     time.sleep(1)
-print(azul+'''                 
+print(azul+''' 
+                                        
                   .xUHWH!! !!?M88WHX$X:.
                 .X*#M@$!!  !X!M$$$$$$WWx:.
                :!!!!!!?H! :!$!$$$$$$$$$$8X:
@@ -30,6 +109,9 @@ W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
 Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
+
+
+https://github/syxz404
 ''')
 time.sleep(1)
 print("Created by syxz404")
