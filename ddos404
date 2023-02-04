@@ -34,8 +34,8 @@ $R@i.~~ !     :   ~$$$$$B$$en:``
 ''')
 print("\n")
 def ddos404():
-time.sleep(1)
-print("Created by syxz404")
+    time.sleep(1)
+    print("Created by syxz404")
 ip = input ("digite o ip:")
 port = int(input("digite a porta:"))
 
