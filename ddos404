@@ -1,5 +1,7 @@
 import os
 import time
+import requests
+import json
 import socket
 import random
 
@@ -30,6 +32,8 @@ Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
 ''')
+print("\n")
+def ddos404():
 time.sleep(1)
 print("Created by syxz404")
 ip = input ("digite o ip:")
